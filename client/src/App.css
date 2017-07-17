@@ -22,3 +22,10 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.fruit-image{
+  height: 300px;
+  width: 350px;
+}
+body{
+  background: #1abc9c;
+}
